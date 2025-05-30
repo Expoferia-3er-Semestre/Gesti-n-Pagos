@@ -1,0 +1,12 @@
+{
+  "1": {
+    "nombre": "Refresco",
+    "precio": 76.8,
+    "cantidad": 34
+  },
+  "2": {
+    "nombre": "Caramelitos Dugla",
+    "precio": 63.0,
+    "cantidad": 100
+  }
+}
